@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of glowingblue/move-posts.** Not for installation: use [Packagist](https://packagist.org/packages/glowingblue/move-posts) or the [upstream repository](https://github.com/glowingblue/flarum-ext-move-posts).
 
-**0** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/glowingblue-move-posts/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^1.3.0`
+**3** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/glowingblue-move-posts/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^1.3.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2025-05-01 | `^1.3.0` | [Browse](https://github.com/flarchive/glowingblue-move-posts/tree/archive/v1.0.0) |
+| `1.1.0` | 2025-05-01 | `^1.3.0` | [Browse](https://github.com/flarchive/glowingblue-move-posts/tree/archive/v1.1.0) |
+| `1.1.1` | 2025-05-06 | `^1.3.0` | [Browse](https://github.com/flarchive/glowingblue-move-posts/tree/archive/v1.1.1) |
 
 Catalog entry: [packages/glowingblue-move-posts.json](https://github.com/flarchive/archive-index/blob/main/packages/glowingblue-move-posts.json)
 
